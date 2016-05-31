@@ -1,2 +1,5 @@
 # hello-world
-Creating this project as part of the introduction to GitHub
+Hi all,
+
+Just checking out GitHub and its possible use in the business environment.
+
